@@ -1,2 +1,0 @@
-# Cadencebox
-Cadencebox page
